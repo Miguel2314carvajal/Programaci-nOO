@@ -11,6 +11,7 @@ public class EjercicioPrubea {
     }
 
     public void saludar(){
+
         System.out.println("Hola a todos espero tengan un lindo dia");
     }
 
